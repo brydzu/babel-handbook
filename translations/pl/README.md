@@ -1,4 +1,4 @@
-# Babel Podręcznik
+# Babel - Podręcznik
 
 Ten podręcznik jest podzielony na dwie części:
 
